@@ -1,6 +1,6 @@
 # Loker Tracker
 
-**Loker Tracker** adalah aplikasi manajemen lamaran kerja berbasis web yang dirancang untuk membantu *job seeker* memantau, mengelola, dan menganalisis status lamaran kerja mereka secara efisien dan *real-time*.
+**Loker Tracker** adalah aplikasi manajemen lamaran kerja berbasis web yang dirancang untuk membantu *job seeker* memantau, mengelola, dan menganalisis status lamaran kerja secara efisien dan *real-time*.
 
 Aplikasi ini menggantikan metode pencatatan manual (Excel/buku tulis) dengan antarmuka modern yang intuitif, memungkinkan pengguna untuk fokus pada persiapan karier daripada administrasi data.
 
